@@ -16,11 +16,17 @@ I have developed a set of open source R packages. Feel free to check them out :-
 
 </br>
 
-<table style="width:100%" align="center">
+<table style="width:100%">
   <tr>
     <td>
       <a href="https://github.com/LudvigOlsen/groupdata2">
-        groupdata2
+        <b>groupdata2</b>
+      </a><br>
+      <a href="https://cran.r-project.org/package=groupdata2">
+        <img align="center" src="http://cranlogs.r-pkg.org/badges/groupdata2" />
+      </a><br>
+      <a href="https://cran.r-project.org/package=groupdata2">
+        <img align="center" src="http://cranlogs.r-pkg.org/badges/grand-total/groupdata2" />
       </a>
     </td>
     <td>
@@ -31,19 +37,17 @@ I have developed a set of open source R packages. Feel free to check them out :-
         <li>Balance existing groups with up- and downsampling</li>
       </ul>
     </td>
-    <td>
-      <a href="https://cran.r-project.org/package=groupdata2">
-        <img align="center" src="http://cranlogs.r-pkg.org/badges/groupdata2" />
-      </a><br>
-      <a href="https://cran.r-project.org/package=groupdata2">
-        <img align="center" src="http://cranlogs.r-pkg.org/badges/grand-total/groupdata2" />
-      </a>
-    </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/LudvigOlsen/cvms">
-        cvms
+        <b>cvms</b>
+      </a><br>
+      <a href="https://cran.r-project.org/package=cvms">
+        <img align="center" src="http://cranlogs.r-pkg.org/badges/cvms" />
+      </a><br>
+      <a href="https://cran.r-project.org/package=cvms">
+        <img align="center" src="http://cranlogs.r-pkg.org/badges/grand-total/cvms" />
       </a>
     </td>
     <td>
@@ -54,19 +58,17 @@ I have developed a set of open source R packages. Feel free to check them out :-
         <li>Find baselines for a wide range of metrics</li>
       </ul>
     </td>
-    <td>
-      <a href="https://cran.r-project.org/package=cvms">
-        <img align="center" src="http://cranlogs.r-pkg.org/badges/cvms" />
-      </a><br>
-      <a href="https://cran.r-project.org/package=cvms">
-        <img align="center" src="http://cranlogs.r-pkg.org/badges/grand-total/cvms" />
-      </a>
-    </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/LudvigOlsen/xpectr">
-        xpectr
+        <b>xpectr</b>
+      </a></br>
+      <a href="https://cran.r-project.org/package=xpectr">
+        <img align="center" src="http://cranlogs.r-pkg.org/badges/xpectr" />
+      </a><br>
+      <a href="https://cran.r-project.org/package=xpectr">
+        <img align="center" src="http://cranlogs.r-pkg.org/badges/grand-total/xpectr" />
       </a>
     </td>
     <td>
@@ -75,19 +77,17 @@ I have developed a set of open source R packages. Feel free to check them out :-
         <li>RStudio addins for faster development</li>
       </ul>
     </td>
-    <td>
-      <a href="https://cran.r-project.org/package=xpectr">
-        <img align="center" src="http://cranlogs.r-pkg.org/badges/xpectr" />
-      </a><br>
-      <a href="https://cran.r-project.org/package=xpectr">
-        <img align="center" src="http://cranlogs.r-pkg.org/badges/grand-total/xpectr" />
-      </a>
-    </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/LudvigOlsen/rearrr">
-        rearrr
+        <b>rearrr</b>
+      </a></br>
+      <a href="https://cran.r-project.org/package=rearrr">
+        <img align="center" src="http://cranlogs.r-pkg.org/badges/rearrr" />
+      </a><br>
+      <a href="https://cran.r-project.org/package=rearrr">
+        <img align="center" src="http://cranlogs.r-pkg.org/badges/grand-total/rearrr" />
       </a>
     </td>
     <td>
@@ -96,14 +96,6 @@ I have developed a set of open source R packages. Feel free to check them out :-
         <li>Mutate data points</br><i>- rotate, swirl, cluster, roll values, ...</i></li>
         <li>Scaling and measuring utilities</br><i>- MinMax scaling, find angle, find centroid, ...</i></li>
       </ul>
-    </td>
-    <td>
-      <a href="https://cran.r-project.org/package=rearrr">
-        <img align="center" src="http://cranlogs.r-pkg.org/badges/rearrr" />
-      </a><br>
-      <a href="https://cran.r-project.org/package=rearrr">
-        <img align="center" src="http://cranlogs.r-pkg.org/badges/grand-total/rearrr" />
-      </a>
     </td>
   </tr>
 </table> 
