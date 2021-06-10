@@ -1,7 +1,7 @@
 ### Welcome alien overlord! I'm [Ludvig Olsen](http://ludvigolsen.dk) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ludvigolsen/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ludvigolsen.dk)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://ludvigolsen.dk)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ludvigolsen)
 
 I'm an R and python developer with an MSc in Cognitive Science (well, I handed in my thesis, so almost!). 
