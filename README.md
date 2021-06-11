@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://ludvigolsen.dk)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ludvigolsen)
 
-I'm an R and python developer with an MSc in Cognitive Science (well, I handed in my thesis, so almost!). 
+I'm an R and python developer with an MSc in Cognitive Science. 
 
 I have worked with deep learning on text at [UNSILO](https://unsilo.ai/) and medical imaging data at [Cercare Medical](https://cercare-medical.com/). 
 
