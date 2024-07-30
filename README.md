@@ -1,7 +1,7 @@
 ### Welcome alien overlord! I'm [Ludvig Olsen](http://ludvigolsen.dk) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ludvigolsen/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://ludvigolsen.dk)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ludvigolsen.dk)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ludvigolsen)
 
 I'm an R and python developer with an MSc in Cognitive Science, working as a PhD student at the Department of Molecular Medicine (MOMA) at Aarhus University Hospital. Current projects revolve around detection and localization of cancers from cell-free DNA.
@@ -23,10 +23,10 @@ I have developed a set of open source R packages. Feel free to check them out :-
         <b>groupdata2</b>
       </a><br>
       <a href="https://cran.r-project.org/package=groupdata2">
-        <img align="center" src="http://cranlogs.r-pkg.org/badges/groupdata2" />
+        <img align="center" src="https://cranlogs.r-pkg.org/badges/groupdata2" />
       </a><br>
       <a href="https://cran.r-project.org/package=groupdata2">
-        <img align="center" src="http://cranlogs.r-pkg.org/badges/grand-total/groupdata2" />
+        <img align="center" src="https://cranlogs.r-pkg.org/badges/grand-total/groupdata2" />
       </a>
     </td>
     <td>
