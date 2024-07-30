@@ -44,10 +44,10 @@ I have developed a set of open source R packages. Feel free to check them out :-
         <b>cvms</b>
       </a><br>
       <a href="https://cran.r-project.org/package=cvms">
-        <img align="center" src="http://cranlogs.r-pkg.org/badges/cvms" />
+        <img align="center" src="https://cranlogs.r-pkg.org/badges/cvms" />
       </a><br>
       <a href="https://cran.r-project.org/package=cvms">
-        <img align="center" src="http://cranlogs.r-pkg.org/badges/grand-total/cvms" />
+        <img align="center" src="https://cranlogs.r-pkg.org/badges/grand-total/cvms" />
       </a>
     </td>
     <td>
@@ -65,10 +65,10 @@ I have developed a set of open source R packages. Feel free to check them out :-
         <b>xpectr</b>
       </a></br>
       <a href="https://cran.r-project.org/package=xpectr">
-        <img align="center" src="http://cranlogs.r-pkg.org/badges/xpectr" />
+        <img align="center" src="https://cranlogs.r-pkg.org/badges/xpectr" />
       </a><br>
       <a href="https://cran.r-project.org/package=xpectr">
-        <img align="center" src="http://cranlogs.r-pkg.org/badges/grand-total/xpectr" />
+        <img align="center" src="https://cranlogs.r-pkg.org/badges/grand-total/xpectr" />
       </a>
     </td>
     <td>
@@ -84,10 +84,10 @@ I have developed a set of open source R packages. Feel free to check them out :-
         <b>rearrr</b>
       </a></br>
       <a href="https://cran.r-project.org/package=rearrr">
-        <img align="center" src="http://cranlogs.r-pkg.org/badges/rearrr" />
+        <img align="center" src="https://cranlogs.r-pkg.org/badges/rearrr" />
       </a><br>
       <a href="https://cran.r-project.org/package=rearrr">
-        <img align="center" src="http://cranlogs.r-pkg.org/badges/grand-total/rearrr" />
+        <img align="center" src="https://cranlogs.r-pkg.org/badges/grand-total/rearrr" />
       </a>
     </td>
     <td>
