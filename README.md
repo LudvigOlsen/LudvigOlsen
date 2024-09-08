@@ -1,18 +1,18 @@
-### Welcome alien overlord! I'm [Ludvig Olsen](http://ludvigolsen.dk) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
+### Welcome! I'm [Ludvig Olsen](http://ludvigolsen.dk) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ludvigolsen/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ludvigolsen.dk)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ludvigolsen)
 
-I'm an R and python developer with an MSc in Cognitive Science, working as a PhD student at the Department of Molecular Medicine (MOMA) at Aarhus University Hospital. Current projects revolve around detection and localization of cancers from cell-free DNA.
+I'm an R and python developer with an MSc in Cognitive Science, working as a PhD student at the Department of Molecular Medicine (MOMA) at Aarhus University Hospital. Current projects revolve around detection and localization of cancers from cell-free DNA in blood samples.
 
-I have worked with deep learning on text at [UNSILO](https://unsilo.ai/) and medical imaging data at [Cercare Medical](https://cercare-medical.com/). 
+I worked with deep learning on text at [UNSILO](https://unsilo.ai/) and medical imaging data at [Cercare Medical](https://cercare-medical.com/). 
 
-The goal of my career is to have a very big positive impact on this world of ours! :earth_africa:
+The aim of my career is to have a very big positive impact on this world of ours! :earth_africa:
 
 #### R packages
 
-I have developed a set of open source R packages. Feel free to check them out :-)
+I have developed a set of open source R and Python packages:
 
 </br>
 
