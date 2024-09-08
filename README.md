@@ -37,6 +37,11 @@ I have developed a set of open source R packages. Feel free to check them out :-
         <li>Balance existing groups with up- and downsampling</li>
       </ul>
     </td>
+    <td>
+      <a href="https://cran.r-project.org/package=groupdata">
+        <img align="center" src="https://raw.githubusercontent.com/LudvigOlsen/groupdata2/master/man/figures/groupdata2_logo_242x280_250dpi.png" width="140px" />
+      </a>
+    </td>
   </tr>
   <tr>
     <td>
@@ -58,24 +63,10 @@ I have developed a set of open source R packages. Feel free to check them out :-
         <li>Find baselines for a wide range of metrics</li>
       </ul>
     </td>
-  </tr>
-  <tr>
     <td>
-      <a href="https://github.com/LudvigOlsen/xpectr">
-        <b>xpectr</b>
-      </a></br>
-      <a href="https://cran.r-project.org/package=xpectr">
-        <img align="center" src="https://cranlogs.r-pkg.org/badges/xpectr" />
-      </a><br>
-      <a href="https://cran.r-project.org/package=xpectr">
-        <img align="center" src="https://cranlogs.r-pkg.org/badges/grand-total/xpectr" />
+      <a href="https://cran.r-project.org/package=cvms">
+        <img align="center" src="https://raw.githubusercontent.com/LudvigOlsen/cvms/master/man/figures/cvms_logo_242x280_250dpi.png" width="140px" />
       </a>
-    </td>
-    <td>
-      <ul> 
-        <li>Generate testthat tests</li>
-        <li>RStudio addins for faster development</li>
-      </ul>
     </td>
   </tr>
   <tr>
@@ -97,8 +88,78 @@ I have developed a set of open source R packages. Feel free to check them out :-
         <li>Scaling and measuring utilities</br><i>- MinMax scaling, find angle, find centroid, ...</i></li>
       </ul>
     </td>
+    <td>
+      <a href="https://cran.r-project.org/package=rearrr">
+        <img align="center" src="https://raw.githubusercontent.com/LudvigOlsen/rearrr/master/man/figures/rearrr_square_logo_242x225_259dpi.png" width="140px" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/LudvigOlsen/xpectr">
+        <b>xpectr</b>
+      </a></br>
+      <a href="https://cran.r-project.org/package=xpectr">
+        <img align="center" src="https://cranlogs.r-pkg.org/badges/xpectr" />
+      </a><br>
+      <a href="https://cran.r-project.org/package=xpectr">
+        <img align="center" src="https://cranlogs.r-pkg.org/badges/grand-total/xpectr" />
+      </a>
+    </td>
+    <td>
+      <ul> 
+        <li>Generate testthat tests</li>
+        <li>RStudio addins for faster development</li>
+      </ul>
+    </td>
+    <td>
+    </td>
   </tr>
 </table> 
+
+#### Python packages
+
+<table style="width:100%">
+  <tr>
+    <td>
+      <a href="https://github.com/LudvigOlsen/nattrs">
+        <b>nattrs</b>
+      </a>
+    </td>
+    <td>
+      <ul> 
+        <li>Get, set, mutate, update, or delete nested attributes</li>
+        <li>Works on dict members and object attributes interchangebly</li>
+        <li>Allows regex-based matching on attribute / key names</li>
+      </ul>
+    </td>
+    <td>
+    <a href="https://pypi.org/project/nattrs/">
+        <img align="center" src="https://raw.githubusercontent.com/LudvigOlsen/nattrs/main/nattrs_242x280_259dpi.png" width="140px" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/LudvigOlsen/generalize">
+        <b>generalize</b>
+      </a>
+    </td>
+    <td>
+      <ul> 
+        <li>Run repeated nested leave-one-dataset-out cross-validation</li>
+        <li>Evaluate predictions with a range of metrics</li>
+        <li>Evaluate univariate models</li>
+        <li>Classes for handling ROC curves and confusion matrices</li>
+      </ul>
+    </td>
+    <td>
+    <a href="https://pypi.org/project/generalize/">
+        <img align="center" src="https://raw.githubusercontent.com/LudvigOlsen/generalize/master/generalize_242x280_250dpi.png" width="140px" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 #### GitHub stats
 
