@@ -18,101 +18,97 @@ I have developed a set of open source R packages. Feel free to check them out :-
 
 <table style="width:100%">
   <tr>
-    <td>
-      <a href="https://github.com/LudvigOlsen/groupdata2">
-        <b>groupdata2</b>
-      </a><br>
-      <a href="https://cran.r-project.org/package=groupdata2">
-        <img align="center" src="https://cranlogs.r-pkg.org/badges/groupdata2" />
-      </a><br>
-      <a href="https://cran.r-project.org/package=groupdata2">
-        <img align="center" src="https://cranlogs.r-pkg.org/badges/grand-total/groupdata2" />
-      </a>
+    <td align="center">
+      <a href="https://cran.r-project.org/package=groupdata">
+        <img align="center" src="https://raw.githubusercontent.com/LudvigOlsen/groupdata2/master/man/figures/groupdata2_logo_242x280_250dpi.png" width="140px" />
+      </a><br><br>
     </td>
     <td>
+      <h2>groupdata2</h2>
       <ul> 
         <li>Divide data into groups</li>
         <li>Create balanced partitions and cross-validation folds</li>
         <li>Perform time series windowing</li>
         <li>Balance existing groups with up- and downsampling</li>
       </ul>
-    </td>
-    <td>
-      <a href="https://cran.r-project.org/package=groupdata">
-        <img align="center" src="https://raw.githubusercontent.com/LudvigOlsen/groupdata2/master/man/figures/groupdata2_logo_242x280_250dpi.png" width="140px" />
+      <a href="https://cran.r-project.org/package=groupdata2">
+        <img align="center" src="https://cranlogs.r-pkg.org/badges/groupdata2" />
       </a>
+      <a href="https://cran.r-project.org/package=groupdata2">
+        <img align="center" src="https://cranlogs.r-pkg.org/badges/grand-total/groupdata2" />
+      </a><br><br>
+      <a href="https://github.com/LudvigOlsen/groupdata2">
+        <b>Read more</b>
+      </a><br><br>
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/LudvigOlsen/cvms">
-        <b>cvms</b>
-      </a><br>
+    <td align="center">
       <a href="https://cran.r-project.org/package=cvms">
-        <img align="center" src="https://cranlogs.r-pkg.org/badges/cvms" />
-      </a><br>
-      <a href="https://cran.r-project.org/package=cvms">
-        <img align="center" src="https://cranlogs.r-pkg.org/badges/grand-total/cvms" />
-      </a>
+        <img align="center" src="https://raw.githubusercontent.com/LudvigOlsen/cvms/master/man/figures/cvms_logo_242x280_250dpi.png" width="140px" />
+      </a><br><br>
     </td>
     <td>
+      <h2>cvms</h2>
       <ul> 
         <li>Cross-validate regression and classification models</li>
         <li>Evaluate predictions with a tidy output</li>
         <li>Extract challenging observations</li>
         <li>Find baselines for a wide range of metrics</li>
       </ul>
-    </td>
-    <td>
       <a href="https://cran.r-project.org/package=cvms">
-        <img align="center" src="https://raw.githubusercontent.com/LudvigOlsen/cvms/master/man/figures/cvms_logo_242x280_250dpi.png" width="140px" />
+        <img align="center" src="https://cranlogs.r-pkg.org/badges/cvms" />
       </a>
+      <a href="https://cran.r-project.org/package=cvms">
+        <img align="center" src="https://cranlogs.r-pkg.org/badges/grand-total/cvms" />
+      </a><br><br>
+      <a href="https://github.com/LudvigOlsen/cvms">
+        <b>Read more</b>
+      </a><br><br>
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/LudvigOlsen/rearrr">
-        <b>rearrr</b>
-      </a></br>
+    <td align="center">
       <a href="https://cran.r-project.org/package=rearrr">
-        <img align="center" src="https://cranlogs.r-pkg.org/badges/rearrr" />
-      </a><br>
-      <a href="https://cran.r-project.org/package=rearrr">
-        <img align="center" src="https://cranlogs.r-pkg.org/badges/grand-total/rearrr" />
-      </a>
+        <img align="center" src="https://raw.githubusercontent.com/LudvigOlsen/rearrr/master/man/figures/rearrr_square_logo_242x225_259dpi.png" width="140px" />
+      </a><br><br>
     </td>
     <td>
+      <h2>rearrr</h2>
       <ul> 
         <li>Rearrrange data points</br><i>- center max value, roll elements, shuffle hierarchy, ...</i></li>
         <li>Mutate data points</br><i>- rotate, swirl, cluster, roll values, ...</i></li>
         <li>Scaling and measuring utilities</br><i>- MinMax scaling, find angle, find centroid, ...</i></li>
       </ul>
-    </td>
-    <td>
       <a href="https://cran.r-project.org/package=rearrr">
-        <img align="center" src="https://raw.githubusercontent.com/LudvigOlsen/rearrr/master/man/figures/rearrr_square_logo_242x225_259dpi.png" width="140px" />
+        <img align="center" src="https://cranlogs.r-pkg.org/badges/rearrr" />
       </a>
+      <a href="https://cran.r-project.org/package=rearrr">
+        <img align="center" src="https://cranlogs.r-pkg.org/badges/grand-total/rearrr" />
+      </a><br><br>
+      <a href="https://github.com/LudvigOlsen/rearrr">
+        <b>Read more</b>
+      </a><br><br>
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/LudvigOlsen/xpectr">
-        <b>xpectr</b>
-      </a></br>
-      <a href="https://cran.r-project.org/package=xpectr">
-        <img align="center" src="https://cranlogs.r-pkg.org/badges/xpectr" />
-      </a><br>
-      <a href="https://cran.r-project.org/package=xpectr">
-        <img align="center" src="https://cranlogs.r-pkg.org/badges/grand-total/xpectr" />
-      </a>
+    <td align="center">
     </td>
     <td>
+      <h2>xpectr</h2>
       <ul> 
         <li>Generate testthat tests</li>
         <li>RStudio addins for faster development</li>
       </ul>
-    </td>
-    <td>
+      <a href="https://cran.r-project.org/package=xpectr">
+        <img align="center" src="https://cranlogs.r-pkg.org/badges/xpectr" />
+      </a>
+      <a href="https://cran.r-project.org/package=xpectr">
+        <img align="center" src="https://cranlogs.r-pkg.org/badges/grand-total/xpectr" />
+      </a><br><br>
+      <a href="https://github.com/LudvigOlsen/xpectr">
+        <b>Read more</b>
+      </a><br><br>
     </td>
   </tr>
 </table> 
@@ -121,42 +117,42 @@ I have developed a set of open source R packages. Feel free to check them out :-
 
 <table style="width:100%">
   <tr>
-    <td>
-      <a href="https://github.com/LudvigOlsen/nattrs">
-        <b>nattrs</b>
-      </a>
+    <td align="center">
+      <a href="[https://pypi.org/project/nattrs/](https://github.com/LudvigOlsen/nattrs)">
+        <img align="center" src="https://raw.githubusercontent.com/LudvigOlsen/nattrs/main/nattrs_242x280_259dpi.png" width="140px" />
+      </a><br><br>
     </td>
     <td>
+      <h2>nattrs</h2>
       <ul> 
         <li>Get, set, mutate, update, or delete nested attributes</li>
         <li>Works on dict members and object attributes interchangebly</li>
         <li>Allows regex-based matching on attribute / key names</li>
       </ul>
-    </td>
-    <td>
-    <a href="https://pypi.org/project/nattrs/">
-        <img align="center" src="https://raw.githubusercontent.com/LudvigOlsen/nattrs/main/nattrs_242x280_259dpi.png" width="140px" />
-      </a>
+      <br>
+      <a href="https://github.com/LudvigOlsen/nattrs">
+        <b>Read more</b>
+      </a><br><br>
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/LudvigOlsen/generalize">
-        <b>generalize</b>
-      </a>
+    <td align="center">
+      <a href="[https://pypi.org/project/generalize/](https://github.com/LudvigOlsen/generalize)">
+        <img align="center" src="https://raw.githubusercontent.com/LudvigOlsen/generalize/master/generalize_242x280_250dpi.png" width="140px" />
+      </a><br><br>
     </td>
     <td>
+      <h2>generalize</h2>
       <ul> 
         <li>Run repeated nested leave-one-dataset-out cross-validation</li>
         <li>Evaluate predictions with a range of metrics</li>
         <li>Evaluate univariate models</li>
         <li>Classes for handling ROC curves and confusion matrices</li>
       </ul>
-    </td>
-    <td>
-    <a href="https://pypi.org/project/generalize/">
-        <img align="center" src="https://raw.githubusercontent.com/LudvigOlsen/generalize/master/generalize_242x280_250dpi.png" width="140px" />
-      </a>
+      <br>
+      <a href="https://github.com/LudvigOlsen/generalize">
+        <b>Read more</b>
+      </a><br><br>
     </td>
   </tr>
 </table>
