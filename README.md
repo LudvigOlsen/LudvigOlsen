@@ -119,6 +119,25 @@ I have developed a set of open source R and Python packages:
   <tr>
     <td align="center">
       <a href="[https://pypi.org/project/nattrs/](https://github.com/LudvigOlsen/nattrs)">
+        <img align="center" src="https://raw.githubusercontent.com/besenbacherlab/lionheart/main/lionheart_242x280_250dpi.png" width="140px" />
+      </a><br><br>
+    </td>
+    <td>
+      <h2>lionheart</h2>
+      <ul> 
+        <li>Detect pan-cancer from whole genome sequenced cell-free DNA</li>
+        <li>Correlates fragment coverage with chromatin accessibility of 487 cell types</li>
+        <li>Use the trained model or train your own</li>
+      </ul>
+      <br>
+      <a href="https://github.com/besenbacherlab/lionheart">
+        <b>Read more</b>
+      </a><br><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="[https://pypi.org/project/nattrs/](https://github.com/LudvigOlsen/nattrs)">
         <img align="center" src="https://raw.githubusercontent.com/LudvigOlsen/nattrs/main/nattrs_242x280_259dpi.png" width="140px" />
       </a><br><br>
     </td>
