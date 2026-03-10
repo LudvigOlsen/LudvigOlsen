@@ -1,8 +1,7 @@
-### Welcome! I'm [Ludvig Olsen](http://ludvigolsen.dk) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
+### Welcome! I'm [Ludvig Olsen](https://ludvigolsen.dk) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ludvigolsen/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ludvigolsen.dk)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ludvigolsen)
 
 I'm an R and python developer with a PhD in bioinformatics, working as a Postdoc at the Department of Molecular Medicine (MOMA) at Aarhus University Hospital. Current projects revolve around detection and localization of cancers from cell-free DNA in blood samples.
 
