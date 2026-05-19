@@ -3,11 +3,52 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ludvigolsen/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ludvigolsen.dk)
 
-I'm an R and python developer with a PhD in bioinformatics, working as a Postdoc at the Department of Molecular Medicine (MOMA) at Aarhus University Hospital. Current projects revolve around detection and localization of cancers from cell-free DNA in blood samples.
+I'm a Python, Rust, and R developer with a PhD in bioinformatics, working as a Postdoc at the Department of Molecular Medicine (MOMA) at Aarhus University Hospital. Current projects revolve around detection and localization of cancers from cell-free DNA in blood samples.
 
 I worked with deep learning on text at [UNSILO](https://unsilo.ai/) and medical imaging data at [Cercare Medical](https://cercare-medical.com/). 
 
 The aim of my career is to have a very big positive impact on this world of ours! :earth_africa:
+
+#### Rust packages
+
+<table style="width:100%">
+  <tr>
+    <td align="center">
+      <img align="center" src="https://raw.githubusercontent.com/besenbacherlab/cfDNAlab/main/cfdnalab_logo_little_guy_172x200_144dpi.png" width="140px" />
+      <br><br>
+    </td>
+    <td>
+      <h2>cfDNAlab</h2>
+      <ul> 
+        <li>Extract bias-corrected fragmentomics features from cell-free DNA</li>
+        <li>Ultra-fast command line tools with high flexibility aimed at both research and production</li>
+        <li>Accompanying R and Python packages for downstream analysis</li>
+      </ul>
+      <br>
+      <a href="https://github.com/BesenbacherLab/cfDNAlab">
+        <b>Read more</b>
+      </a><br><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img align="center" src="https://raw.githubusercontent.com/JakobSkouPedersenLab/pairbase/main/pairbase_logo_230x280_250dpi.png" width="140px" />
+      <br><br>
+    </td>
+    <td>
+      <h2>pairbase</h2>
+      <ul> 
+        <li>Calculate mismatch rates from consensus positions of WGS paired-end reads</li>
+        <li>Normalized by the consensus-position opportunities in the same sequencing data</li>
+        <li>Quantify the effect of adding/changing filtering steps via positional statistics</li>
+      </ul>
+      <br>
+      <a href="https://github.com/JakobSkouPedersenLab/pairbase">
+        <b>Read more</b>
+      </a><br><br>
+    </td>
+  </tr>
+</table>
 
 #### R packages
 
@@ -18,9 +59,8 @@ I have developed a set of open source R and Python packages:
 <table style="width:100%">
   <tr>
     <td align="center">
-      <a href="https://cran.r-project.org/package=groupdata">
-        <img align="center" src="https://raw.githubusercontent.com/LudvigOlsen/groupdata2/master/man/figures/groupdata2_logo_242x280_250dpi.png" width="140px" />
-      </a><br><br>
+      <img align="center" src="https://raw.githubusercontent.com/LudvigOlsen/groupdata2/master/man/figures/groupdata2_logo_242x280_250dpi.png" width="140px" />
+      <br><br>
     </td>
     <td>
       <h2>groupdata2</h2>
@@ -43,9 +83,8 @@ I have developed a set of open source R and Python packages:
   </tr>
   <tr>
     <td align="center">
-      <a href="https://cran.r-project.org/package=cvms">
-        <img align="center" src="https://raw.githubusercontent.com/LudvigOlsen/cvms/master/man/figures/cvms_logo_242x280_250dpi.png" width="140px" />
-      </a><br><br>
+      <img align="center" src="https://raw.githubusercontent.com/LudvigOlsen/cvms/master/man/figures/cvms_logo_242x280_250dpi.png" width="140px" />
+      <br><br>
     </td>
     <td>
       <h2>cvms</h2>
@@ -68,9 +107,8 @@ I have developed a set of open source R and Python packages:
   </tr>
   <tr>
     <td align="center">
-      <a href="https://cran.r-project.org/package=rearrr">
-        <img align="center" src="https://raw.githubusercontent.com/LudvigOlsen/rearrr/master/man/figures/rearrr_square_logo_242x225_259dpi.png" width="140px" />
-      </a><br><br>
+      <img align="center" src="https://raw.githubusercontent.com/LudvigOlsen/rearrr/master/man/figures/rearrr_square_logo_242x225_259dpi.png" width="140px" />
+      <br><br>
     </td>
     <td>
       <h2>rearrr</h2>
@@ -117,9 +155,8 @@ I have developed a set of open source R and Python packages:
 <table style="width:100%">
   <tr>
     <td align="center">
-      <a href="[https://pypi.org/project/nattrs/](https://github.com/LudvigOlsen/nattrs)">
-        <img align="center" src="https://raw.githubusercontent.com/besenbacherlab/lionheart/main/lionheart_242x280_250dpi.png" width="140px" />
-      </a><br><br>
+      <img align="center" src="https://raw.githubusercontent.com/besenbacherlab/lionheart/main/lionheart_242x280_250dpi.png" width="140px" />
+      <br><br>
     </td>
     <td>
       <h2>lionheart</h2>
@@ -136,9 +173,8 @@ I have developed a set of open source R and Python packages:
   </tr>
   <tr>
     <td align="center">
-      <a href="[https://pypi.org/project/nattrs/](https://github.com/LudvigOlsen/nattrs)">
-        <img align="center" src="https://raw.githubusercontent.com/LudvigOlsen/nattrs/main/nattrs_242x280_259dpi.png" width="140px" />
-      </a><br><br>
+      <img align="center" src="https://raw.githubusercontent.com/LudvigOlsen/nattrs/main/nattrs_242x280_259dpi.png" width="140px" />
+      <br><br>
     </td>
     <td>
       <h2>nattrs</h2>
@@ -155,9 +191,8 @@ I have developed a set of open source R and Python packages:
   </tr>
   <tr>
     <td align="center">
-      <a href="[https://pypi.org/project/generalize/](https://github.com/LudvigOlsen/generalize)">
-        <img align="center" src="https://raw.githubusercontent.com/LudvigOlsen/generalize/master/generalize_242x280_250dpi.png" width="140px" />
-      </a><br><br>
+      <img align="center" src="https://raw.githubusercontent.com/LudvigOlsen/generalize/master/generalize_242x280_250dpi.png" width="140px" />
+      <br><br>
     </td>
     <td>
       <h2>generalize</h2>
@@ -174,14 +209,6 @@ I have developed a set of open source R and Python packages:
     </td>
   </tr>
 </table>
-
-#### GitHub stats
-
-<div align="center"> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LudvigOlsen&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" align="center" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LudvigOlsen&layout=compact" />
-</div>
-
 
 <!--
 **LudvigOlsen/LudvigOlsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
