@@ -52,8 +52,6 @@ The aim of my career is to have a very big positive impact on this world of ours
 
 #### R packages
 
-I have developed a set of open source R and Python packages:
-
 </br>
 
 <table style="width:100%">
